@@ -35,3 +35,21 @@
 .tabbella{
     background-color: #00ffff ;
 }
+
+.container{
+    height: 200px;
+    width: 300px;
+    background-image: url("../img/monitor.jpg");
+    color: #ffffff;
+    font-size: 25px;
+    
+}
+
+.container2{
+    margin-top: 15px;
+    height: 200px;
+    width: 300px;
+    background-image: url("../img/graph.jpg");
+    color: #ffffff;
+    font-size: 25px;
+}
