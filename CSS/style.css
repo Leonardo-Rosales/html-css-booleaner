@@ -21,3 +21,7 @@
 .color{
     color:rgba(00, 00,255,0.7);
 }
+
+.list {
+    padding-left: 10px;
+}
