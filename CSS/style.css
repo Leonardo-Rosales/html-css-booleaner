@@ -25,3 +25,13 @@
 .list {
     padding-left: 10px;
 }
+
+.thead{
+    color: #ffffff;
+    background-color: #0000ff;
+    width: 50%;
+}
+
+.tabbella{
+    background-color: #00ffff ;
+}
